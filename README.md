@@ -22,7 +22,7 @@ git clone https://github.com/yourusername/sentiment-analysis-nlp-bert.git
 
 1.Install the required dependencies:
 
-```bash
+
 cd sentiment-analysis-nlp-bert
 pip install -r requirements.txt
 
