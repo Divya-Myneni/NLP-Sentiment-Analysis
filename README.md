@@ -18,21 +18,28 @@ To use this project, follow these steps:
 
 ```bash
 git clone https://github.com/yourusername/sentiment-analysis-nlp-bert.git
-
+```
 
 1.Install the required dependencies:
 
-
+```bash
 cd sentiment-analysis-nlp-bert
+
 pip install -r requirements.txt
+```
+
+## Usage
 
 Download pre-trained BERT model weights (if not included in the repository).
 
 Run the sentiment analysis script with your own data.
 
-##Usage
+
 To perform sentiment analysis using BERT:
 
 1.Prepare your text data in a suitable format.
 2.Fine-tune the pre-trained BERT model on your dataset (optional).
 3.Use the trained model to predict sentiment on new text data.
+
+
+
