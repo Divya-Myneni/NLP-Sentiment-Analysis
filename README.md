@@ -30,7 +30,7 @@ Download pre-trained BERT model weights (if not included in the repository).
 
 Run the sentiment analysis script with your own data.
 
-#Usage
+##Usage
 To perform sentiment analysis using BERT:
 
 1.Prepare your text data in a suitable format.
